@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GG3sZ7P/600=",
+  "dgSpecHash": "9A00DpMVIGA=",
   "success": true,
-  "projectFilePath": "D:\\CrudexCompiler\\package\\sample\\HarbourCompiler.Sample.csproj",
+  "projectFilePath": "D:\\PreCompiler\\sample\\HarbourCompiler.Sample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

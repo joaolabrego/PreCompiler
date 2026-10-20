@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\CrudexCompiler\package\sample\HarbourPreprocessor.dll</FullPath>
+      <FullPath>D:\PreCompiler\sample\HarbourPreprocessor.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

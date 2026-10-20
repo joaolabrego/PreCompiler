@@ -14,17 +14,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CrudexCompiler\\package\\sample\\HarbourCompiler.Sample.csproj",
+      "projectUniqueName": "D:\\PreCompiler\\sample\\HarbourCompiler.Sample.csproj",
       "projectName": "HarbourCompiler.Sample",
-      "projectPath": "D:\\CrudexCompiler\\package\\sample\\HarbourCompiler.Sample.csproj",
+      "projectPath": "D:\\PreCompiler\\sample\\HarbourCompiler.Sample.csproj",
       "packagesPath": "C:\\Users\\joaol\\.nuget\\packages\\",
-      "outputPath": "D:\\CrudexCompiler\\package\\sample\\obj\\",
+      "outputPath": "D:\\PreCompiler\\sample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "D:\\CrudexCompiler\\package\\NuGet.Config",
+        "D:\\PreCompiler\\NuGet.Config",
         "C:\\Users\\joaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

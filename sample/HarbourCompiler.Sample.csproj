@@ -8,15 +8,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="../managed/ClipperPreCompiler.cs" Link="ClipperPreCompiler.cs" />
-    <None Include="../rules/crudex_dsl.ch" Link="rules/crudex_dsl.ch" CopyToOutputDirectory="PreserveNewest" />
     <None Include="../runtimes/linux-x64/native/libHarbourPreprocessor.so" Link="libHarbourPreprocessor.so" CopyToOutputDirectory="PreserveNewest" Condition="$([MSBuild]::IsOSPlatform('Linux'))" />
     <None Include="HarbourPreprocessor.dll" CopyToOutputDirectory="PreserveNewest" Condition="$([MSBuild]::IsOSPlatform('Windows'))" />
   </ItemGroup>
-  <Target Name="RebuildHarbourPreprocessor" BeforeTargets="PrepareForBuild"
-          Condition="$([MSBuild]::IsOSPlatform('Windows')) and '$(DesignTimeBuild)' != 'true'">
-    <MSBuild Projects="$(MSBuildProjectDirectory)\..\native\HarbourPreprocessor.vcxproj"
-             Targets="Rebuild" Properties="Configuration=Release;Platform=x64" />
-    <Error Condition="!Exists('$(MSBuildProjectDirectory)\HarbourPreprocessor.dll')"
-           Text="O projeto nativo terminou sem gerar sample\HarbourPreprocessor.dll." />
+  <Target Name="RebuildHarbourPreprocessor" BeforeTargets="PrepareForBuild" Condition="$([MSBuild]::IsOSPlatform('Windows')) and '$(DesignTimeBuild)' != 'true'">
+    <MSBuild Projects="$(MSBuildProjectDirectory)\..\native\HarbourPreprocessor.vcxproj" Targets="Rebuild" Properties="Configuration=Release;Platform=x64" />
+    <Error Condition="!Exists('$(MSBuildProjectDirectory)\HarbourPreprocessor.dll')" Text="O projeto nativo terminou sem gerar sample\HarbourPreprocessor.dll." />
   </Target>
 </Project>
