@@ -1,0 +1,6 @@
+Harbour core
+https://github.com/harbour/core
+Commit f3d0db2c24ce36d1869a41176085b4a57cade340
+
+Subset: include, src/common, src/nortl, src/pp/ppcore.c.
+Sources unchanged. Wrapper is in native/.

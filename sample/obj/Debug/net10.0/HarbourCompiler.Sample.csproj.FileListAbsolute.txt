@@ -1,0 +1,17 @@
+D:\CrudexCompiler\package\sample\bin\Debug\net10.0\rules\crudex_dsl.ch
+D:\CrudexCompiler\package\sample\bin\Debug\net10.0\HarbourPreprocessor.dll
+D:\CrudexCompiler\package\sample\bin\Debug\net10.0\HarbourCompiler.Sample.exe
+D:\CrudexCompiler\package\sample\bin\Debug\net10.0\HarbourCompiler.Sample.deps.json
+D:\CrudexCompiler\package\sample\bin\Debug\net10.0\HarbourCompiler.Sample.runtimeconfig.json
+D:\CrudexCompiler\package\sample\bin\Debug\net10.0\HarbourCompiler.Sample.dll
+D:\CrudexCompiler\package\sample\bin\Debug\net10.0\HarbourCompiler.Sample.pdb
+D:\CrudexCompiler\package\sample\obj\Debug\net10.0\HarbourCompiler.Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\CrudexCompiler\package\sample\obj\Debug\net10.0\HarbourCompiler.Sample.AssemblyInfoInputs.cache
+D:\CrudexCompiler\package\sample\obj\Debug\net10.0\HarbourCompiler.Sample.AssemblyInfo.cs
+D:\CrudexCompiler\package\sample\obj\Debug\net10.0\HarbourCompiler.Sample.csproj.CoreCompileInputs.cache
+D:\CrudexCompiler\package\sample\obj\Debug\net10.0\HarbourCompiler.Sample.dll
+D:\CrudexCompiler\package\sample\obj\Debug\net10.0\refint\HarbourCompiler.Sample.dll
+D:\CrudexCompiler\package\sample\obj\Debug\net10.0\HarbourCompiler.Sample.pdb
+D:\CrudexCompiler\package\sample\obj\Debug\net10.0\HarbourCompiler.Sample.genruntimeconfig.cache
+D:\CrudexCompiler\package\sample\obj\Debug\net10.0\ref\HarbourCompiler.Sample.dll
+D:\CrudexCompiler\package\sample\obj\Debug\net10.0\HarbourC.1F89AA6D.Up2Date
