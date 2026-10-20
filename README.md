@@ -64,3 +64,4 @@ Erros de sintaxe nas regras ou no texto processado geram `InvalidOperationExcept
 ## Fontes e licença
 
 O subconjunto do Harbour vem do projeto oficial, identificado em `vendor/harbour/ORIGIN.txt`, e mantém seus avisos de copyright e licença junto aos arquivos. O wrapper e o adaptador são código novo deste pacote. Consulte os avisos incluídos antes de redistribuir o conjunto.
+# PreCompiler
