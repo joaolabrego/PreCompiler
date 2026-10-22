@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HarbourCompiler.Sample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eaff62ac5c1583978802fc48f57abc69bf4d2db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7ee3dc425289ab6efe64dc4b350605376d5287e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HarbourCompiler.Sample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HarbourCompiler.Sample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

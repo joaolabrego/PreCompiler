@@ -23,11 +23,13 @@ var dslCode = """
 
 var compilado = compiler.Execute(dslCode, rules);
 
-Console.WriteLine(rules);
-Console.WriteLine();
 Console.WriteLine($"Pré-processador: {compiler.Version}");
 Console.WriteLine();
-Console.WriteLine(compilado);
+Console.WriteLine("Regras: {0}", rules);
+Console.WriteLine();
+Console.WriteLine("Código a compilar: {0}", dslCode);
+Console.WriteLine();
+Console.WriteLine("Compilado: {0}", compilado);
 Console.WriteLine();
 Console.WriteLine("Pressione qualquer tecla para sair...");
 Console.ReadKey();
